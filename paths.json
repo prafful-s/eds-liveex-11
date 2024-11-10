@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/wknd-sample-site/:/",
-    "/content/wknd-sample-site/configuration:/.helix/config.json",
-    "/content/wknd-sample-site/metadata:/metadata.json"
+    "/content/eds-basic-site/:/",
+    "/content/eds-basic-site/configuration:/.helix/config.json",
+    "/content/eds-basic-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/wknd-sample-site/"
+    "/content/eds-basic-site/"
   ]
 }
